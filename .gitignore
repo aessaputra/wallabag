@@ -37,8 +37,8 @@ web/uploads/
 /coverage
 
 # Development
-docker/php/env
-docker/php/blackfire
+# docker/php/env
+# docker/php/blackfire
 
 # Composer PHAR
 /composer.phar

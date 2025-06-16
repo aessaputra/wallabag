@@ -1,0 +1,6 @@
+DOMAIN_NAME=http://127.0.0.1:8000
+SECRET=ch4n63m31fy0uc4n
+PHP_SESSION_SAVE_PATH=redis://redis:6379?database=2
+PHP_SESSION_HANDLER=redis
+TRUSTED_PROXIES=0.0.0.0/0
+MESSENGER_TRANSPORT_DSN=amqp://wallabag:wallapass@rabbitmq:5672
